@@ -24,8 +24,8 @@ SECRET_KEY = 'dg)cem2v^3fhb08(g=l--5yy&wsn(q9aa2e0982ok8hykvzb6w'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = ["colab-sbx-pvt-25.oit.duke.edu", u'127.0.0.1']
+ALLOWED_HOSTS = ['10.236.48.9']
+#ALLOWED_HOSTS = ["colab-sbx-pvt-25.oit.duke.edu", u'127.0.0.1']
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'rsvp590@gmail.com'
 EMAIL_HOST_PASSWORD = 'ece590590'
